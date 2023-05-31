@@ -1,0 +1,19 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.main {
+height: 584px;
+width: 518px;
+left: 838px;
+top: 122px;
+border-radius: 0px;
+/* position: absolute;
+width: 518px;
+height: 584px;
+left: 838px;
+top: 122px; */
+
+background: url(.jpg);
+}
