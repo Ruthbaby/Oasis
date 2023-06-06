@@ -1,0 +1,32 @@
+*{ 
+  padding: 0;
+  margin:0;
+  box-sizing: border-box;
+}
+
+body {
+  height: 100vh;
+  display: block;
+  background-color: #B2B0AB;
+  font-family: 'Outfit', 'sans-serif', 'helvetica';
+}
+.book{
+position: absolute;
+width: 154px;
+height: 50px;
+left: 183px;
+top: 239px;
+
+font-family: 'Outfit';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 50px;
+text-align: center;
+letter-spacing: 0.145em;
+
+color: #B2B0AB;
+ }
+ .book {
+  background: url(specialist);
+ }
