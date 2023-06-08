@@ -71,14 +71,27 @@ border: solid 1px red;
 }
 
 .booking  {
-width: 157px;
-height: 30px;
-font-weight: 400;
-font-size: 24px;
-line-height: 30px;
-color: #212636;
+  width: 157px;
+  height: 30px;
+  font-family: 'Outfit';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 30px;
+  color: #212636;
 }
-
+p {
+  width: 1279px;
+height: 125px;
+font-family: 'Outfit';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 25px;
+text-align: center;
+letter-spacing: 0.145em;
+color: #FFFFFF;
+}
 .container h1 {
 width: 50%px;
 height: 50px;
@@ -90,11 +103,12 @@ justify-content: center;
 letter-spacing: 0.05em;
 color: #FFFFFF;
 }
-.container p {
+.container  {
 width: 1279px;
 height: 125px;
 font-weight: 400;
 font-size: 20px;
+margin: 60px;
 line-height: 25px;
 text-align: center;
 color: #FFFFFF;
@@ -102,13 +116,23 @@ letter-spacing: 0.105em;
 }
 
 .section1 h2{
-position: absolute;
+  position: absolute;
 width: 326px;
 height: 59.99px;
+font-family: 'Outfit';
+font-style: normal;
 font-weight: 700;
 font-size: 40px;
 line-height: 50px;
 text-align: center;
-letter-spacing: 0.02em;
+letter-spacing: 0.145em;
 color: #FFFFFF;
 }
+.yoga {
+  position: absolute;
+  width: 184.44px;
+  height: 179.97px;
+  background: url(Mindful-blog.jpg);
+}
+
+

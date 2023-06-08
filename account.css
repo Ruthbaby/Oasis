@@ -1,0 +1,47 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+/* Create account*/
+ .account {
+  display:flex;
+  height:500px;
+  width: 700px;
+  margin: auto;
+  margin-top: 50px;
+  border: 1px solid green;
+ }
+
+.signup {
+  display: flex;
+  flex-direction: column;
+  width: 50%;
+  align-items: center;
+  background-color: #ddd;
+}
+.signup h2 {
+  font-size: 3rem;
+  font-family: "Outfit";
+  margin: 40px;
+}
+/*submit*/
+#submit {
+  padding:12px 30px;
+  width: 40%;
+  margin-top: 40px;
+  background-color: #fff;
+  border: none;
+  outline: none;
+  border-radius: 20px;
+}
+#submit:hover {
+  cursor: pointer;
+  background-color: #1fffea;
+}
+.join a {
+  text-decoration: none;
+  color: #fff;
+  margin-top: 20px;
+}
+

@@ -1,0 +1,70 @@
+*{
+  margin: 0;
+  padding:0;
+  box-sizing: border-box;
+}
+
+body {
+  margin: 20%;
+  height: 50%;
+ background-color: #d2d2d2;
+}
+
+.com h2{
+width: 493px;
+height: 50px;
+font-family: 'Outfit';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 50px;
+text-align: center;
+letter-spacing: 0.145em;
+color: #FFFFFF;
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0
+}
+
+.join {
+position: absolute;
+width: 145px;
+height: 50px;
+left: 186px;
+top: 239px;
+font-family: 'Outfit';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 50px;
+text-align: center;
+letter-spacing: 0.145em;
+color: #B2B0AB;
+}
+
+.peep {
+position: absolute;
+width: 145px;
+height: 50px;
+left: 186px;
+top: 239px;
+font-family: 'Outfit';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 50px;
+text-align: center;
+letter-spacing: 0.145em;
+color: #B2B0AB;
+}
+
+ img {
+position: absolute;
+width: 434px;
+height: 636px;
+left: 838px;
+top: 194px;
+/* background: url(meditation comm.jpg); */
+}
+
